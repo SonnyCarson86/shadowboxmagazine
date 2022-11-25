@@ -1,0 +1,118 @@
+body {
+  font-family: 'Didact Gothic', sans-serif;
+  background-color: #8db9c7;
+}
+
+h1 {
+  font-family: 'Poiret One', cursive;
+font-size:5rem;
+  color: #d46eab;
+}
+
+h2 {
+font-family: 'Poiret One', cursive;
+color: #8db9c7;
+font-size:3rem;
+}
+
+h3 {
+font-family: 'Didact Gothic', sans-serif;
+color: #FFF;
+}
+
+h4{
+  color: #fff;
+font-family: 'Didact Gothic', sans-serif;
+}
+p {
+
+  color: #fff;
+}
+
+a {
+  color: #d46eab;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffffff;
+
+
+}
+#header {
+  width: 100%;
+  min-height: 20%;
+  background: #231F20;
+  margin: auto;
+
+  text-align: center;
+  padding: 50px;
+  padding-bottom: 50px;
+
+
+}
+
+#navigation {
+  width: 100%;
+  min-height: 20%;
+  background: #231F20;
+  margin: auto;
+  padding: 50px;
+  padding-bottom: 50px;
+
+}
+#content {
+  width: 90%;
+  min-height: 50%;
+  background: #231F20;
+  margin: auto;
+  margin-top: 10px;
+  text-align: left;
+  padding: 50px;
+
+}
+
+#content2 {
+  width: 90%;
+  min-height: 50%;
+  background: #231F20;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 50px;
+
+}
+
+#content3 {
+  width: 90%;
+  min-height: 50%;
+  background: #FFFFFF;
+  margin: auto;
+
+  text-align: left;
+  padding: 50px;
+
+
+}
+
+#footer {
+  width: 100%;
+  min-height: 10%;
+  background: #231F20;
+  margin: auto;
+
+
+  text-align: center;
+  padding: 10px;
+
+}
+
+#icon {
+  width: 40px;
+}
+
+#image_box {
+  background-image: url("images/lincoln_mag.png");
+
+}
